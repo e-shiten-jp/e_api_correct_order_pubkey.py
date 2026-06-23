@@ -89,7 +89,7 @@ APIの基本設計について
     ##my_sOrderSuryou = '200'
 
 
-４)実行は設定ファイルや「e_api_login_pubkey.py」と同じディレクトリで実行してください。
+４)実行は「e_api_login_pubkey.py」と同じディレクトリで実行してください。
 
 	事前に
 	e_api_login_pubkey.py を実行
